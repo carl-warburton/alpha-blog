@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails alpha-blog: production" uuid="d07c7e2e-2868-4f99-b326-5c915add65da">
+      <driver-ref>1c8f7f37-1109-4b7b-af57-22e692885bc9</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:alpha-blog_production</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails alpha-blog: test" uuid="9dff18e2-db57-45d8-af18-0361974b1ef5">
+      <driver-ref>1c8f7f37-1109-4b7b-af57-22e692885bc9</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:alpha-blog_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails alpha-blog: development" uuid="e2d45ec3-50db-4209-977c-8b3fb34c13e9">
+      <driver-ref>1c8f7f37-1109-4b7b-af57-22e692885bc9</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:alpha-blog_development</jdbc-url>
+    </data-source>
+  </component>
+</project>

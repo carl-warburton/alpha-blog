@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails alpha-blog: production" uuid="d07c7e2e-2868-4f99-b326-5c915add65da">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>alpha-blog</user-name>
+    </data-source>
+    <data-source name="Rails alpha-blog: test" uuid="9dff18e2-db57-45d8-af18-0361974b1ef5">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="Rails alpha-blog: development" uuid="e2d45ec3-50db-4209-977c-8b3fb34c13e9">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>
